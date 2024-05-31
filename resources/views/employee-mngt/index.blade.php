@@ -54,7 +54,7 @@
 
                       </div>
                       <div class="col-md-12 form-group">
-                        <label for="validationCustomUsername" class="form-label">Adddddddddddddddd</label>
+                        <label for="validationCustomUsername" class="form-label">sasasa</label>
                           <input type="text" class="form-control" name="address" id="validationCustomEmail"  required>
                           <div class="valid-feedback">
                           Looks good!
@@ -62,7 +62,7 @@
                       </div>
                      
                       <div class="col-12 form-group">
-                        <button class="btn btn-primary" type="submit">momyyyyyyyyyyyyumiiiiiiiiii</button>
+                        <button class="btn btn-primary" type="submit">mommyyumiii</button>
                       </div>
               </form>
 
