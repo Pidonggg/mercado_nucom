@@ -7,7 +7,7 @@
         <div class="container-fluid">
             <div class="row mb-2">
                 <div class="col-sm-6">
-                    <h1 class="m-0">{{ __('Employees Management') }}</h1>
+                    <h1 class="m-0">{{ __('Employees Management System') }}</h1>
                 </div><!-- /.col -->
             </div><!-- /.row -->
         </div><!-- /.container-fluid -->
@@ -22,7 +22,7 @@
           <div class="col-md-6 m-auto">
           <div class="card card-primary">
             <div class="card-header ">
-              <h3 class="card-title">Add New Employee</h3>
+              <h3 class="card-title">Add New Employees</h3>
             </div>
 
 
@@ -62,7 +62,7 @@
                       </div>
                      
                       <div class="col-12 form-group">
-                        <button class="btn btn-primary" type="submit">dongpi</button>
+                        <button class="btn btn-primary" type="submit">mommyyumi</button>
                       </div>
               </form>
 
