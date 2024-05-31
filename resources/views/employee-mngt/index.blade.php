@@ -62,11 +62,7 @@
                       </div>
                      
                       <div class="col-12 form-group">
-<<<<<<< HEAD
-                        <button class="btn btn-primary" type="submit">Submit</button>
-=======
-                        <button class="btn btn-primary" type="submit">Submit form</button>
->>>>>>> 2f1e652bfafd08a7eda73ba009df58e04af3076b
+                        <button class="btn btn-primary" type="submit">Submitttt</button>
                       </div>
               </form>
 
