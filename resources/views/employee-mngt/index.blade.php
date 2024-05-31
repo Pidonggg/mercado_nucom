@@ -33,7 +33,7 @@
                 <div class="col-md-12 form-group">
                   <label for="validationCustom01" class="form-label">First name</label>
                   <input type="text" class="form-control" name="firstname" id="validationCustom" required>
-                  <div class="valid-feedback">
+                  <div class="valid-feedback">cd 
                     Looks good!
                   </div>
                 </div>
@@ -62,7 +62,7 @@
                       </div>
                      
                       <div class="col-12 form-group">
-                        <button class="btn btn-primary" type="submit">editke</button>
+                        <button class="btn btn-primary" type="submit">submit</button>
                       </div>
               </form>
 
