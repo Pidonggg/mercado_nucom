@@ -28,7 +28,7 @@
 
 
 
-            <form class=" row g-0 needs-validation p-3" action="{{route('employee-mngt.store')}}" method="POST" novalidate>
+            <form class=" row g-0 needs-validation p-3"  style="background-color:red;"action="{{route('employee-mngt.store')}}" method="POST" novalidate>
               @csrf
                 <div class="col-md-12 form-group">
                   <label for="validationCustom01" class="form-label">First name</label>
@@ -62,7 +62,7 @@
                       </div>
                      
                       <div class="col-12 form-group">
-                        <button class="btn btn-primary" type="submit">momyyyyyumss</button>
+                        <button class="btn btn-success " type="submit">momyyyyyumss</button>
                       </div>
               </form>
 
