@@ -99,7 +99,7 @@
                 })()
         </script>
    
-   <table class="table mt-5 bg-gray">
+   <table class="table mt-5 bg-red">
                     <thead>
                       <tr>
                         <th scope="col">#</th>
