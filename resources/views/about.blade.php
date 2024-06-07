@@ -72,14 +72,6 @@
     </div>
   </div>
 
-  <div class="col-md-12 mb-3 ">
-    <label for="validationCustom01" class="form-label">sex</label>
-    <input type="text" class="form-control" id="validationCustom01"  required>
-    <div class="valid-feedback">
-      Looks good!
-    </div>
-  </div>
-
   <div class="col-12">
     <div class="form-check">
       <input class="form-check-input" type="checkbox" value="" id="invalidCheck" required>
